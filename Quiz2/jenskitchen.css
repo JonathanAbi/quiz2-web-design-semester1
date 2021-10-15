@@ -1,0 +1,41 @@
+body{
+	margin:1cm 2.5cm;
+}
+div.semua{
+	align:center;
+}
+.kosong{
+	list-style-type:circle;
+}
+ul>ul>li{
+	list-style-type:square;
+	font-family:Georgia, Times New Roman, Times, serif;
+}
+div.dalem{
+	border:2px dashed #399;
+	border-radius: 10px;
+	padding-left:1cm;
+}
+p.tengah{
+	text-align:justify;
+	text-indent:50px;
+	font-family:Georgia, Times New Roman, Times, serif;
+}
+h4.fonth4{
+	font-family:Verdana, Geneva, Times New Roman, Times, serif;
+	color:#399;
+}
+.ketengah{
+	text-align:center;
+}
+footer{
+	text-align:center;
+	font-family:Georgia, Times New Roman, Times, serif;
+}
+.judul{
+	color:#399;
+	text-shadow:1px 1px #666666;
+}
+li{
+	font-family:Georgia, Times New Roman, Times, serif;
+}
